@@ -10,4 +10,4 @@ I hope you like my repositories and my projects!
 ![Linguagens que eu uso](https://github-readme-stats.vercel.app/api/top-langs/?username=guimunhoz13&theme=transparent&layout=compact)
 
 ## Top Repositories 
-[![Repositorio](https://github-readme-stats.vercel.app/api/pin/?username=guimunhoz13-o&repo=C-digosPessoais&theme=transparent)](https://github.com/guimunhoz13/C-digosPessoais)
+[![Repositorio](https://github-readme-stats.vercel.app/api/pin/?username=guimunhoz13&repo=C-digosPessoais&theme=transparent)](https://github.com/guimunhoz13/C-digosPessoais)
