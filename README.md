@@ -41,7 +41,8 @@ Atuo na definição das regras de negócio, no desenvolvimento do backend e fron
 ### 📌 Repositórios em destaque
 
 - 🔗 [**TCCrepository**](https://github.com/guimunhoz13/TCCrepository) — LexOffice, o ERP jurídico do meu TCC
-- 🔗 [**ProjetoCRUD**](https://github.com/guimunhoz13/ProjetoCRUD)
+- 🔗 [**LandingPageMSLubrificantes**](https://github.com/guimunhoz13/LandingPageMSLubrificantes)
+- 🔗 [**LandingPageAdegaCrystal**](https://github.com/guimunhoz13/LandingPageAdegaCrystal)
 
 ### Atualmente
 
