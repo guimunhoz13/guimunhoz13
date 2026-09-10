@@ -34,20 +34,14 @@ Atuo na definição das regras de negócio, no desenvolvimento do backend e fron
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guimunhoz13&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimunhoz13&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/guimunhoz13?style=for-the-badge&logo=github&color=181717&labelColor=000000&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/guimunhoz13/TCCrepository?style=for-the-badge&logo=git&color=F05032&labelColor=000000&logoColor=white" alt="Último commit no TCC" />
 </p>
 
 ### 📌 Repositórios em destaque
 
-<p align="left">
-  <a href="https://github.com/guimunhoz13/TCCrepository">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guimunhoz13&repo=TCCrepository&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/guimunhoz13/ProjetoCRUD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guimunhoz13&repo=ProjetoCRUD&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+- 🔗 [**TCCrepository**](https://github.com/guimunhoz13/TCCrepository) — LexOffice, o ERP jurídico do meu TCC
+- 🔗 [**ProjetoCRUD**](https://github.com/guimunhoz13/ProjetoCRUD)
 
 ### Atualmente
 
