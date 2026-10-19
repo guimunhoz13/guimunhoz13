@@ -10,7 +10,7 @@ Estou no último semestre da graduação, desenvolvendo um TCC voltado à área 
 
 No meu Trabalho de Conclusão de Curso, desenvolvo o LexOffice, um sistema de gestão (ERP) multi-tenant voltado a escritórios de advocacia, com cadastro de clientes e processos, agenda de compromissos, upload e controle de documentos, geração de relatórios e envio por e-mail/WhatsApp.
 
-Atuo na definição das regras de negócio, no desenvolvimento do backend e frontend, na modelagem do banco de dados, na autenticação multi-tenant e em uma auditoria de segurança completa do projeto (OWASP Top 10, dependências, hardening de configuração) — desenvolvido em parceria com o Claude Code como copiloto de IA ao longo de todo o processo.
+Atuo na definição das regras de negócio, no desenvolvimento do backend e frontend, na modelagem do banco de dados, na autenticação multi-tenant e em uma auditoria de segurança completa do projeto (OWASP Top 10, dependências, hardening de configuração) — desenvolvido em parceria com o Claude Code e Codex como copilotos de IA ao longo de todo o processo.
 
 `Python` `Django` `JavaScript` `Next.js` `PostgreSQL` `Supabase` `Claude Code`
 
