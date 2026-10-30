@@ -2,49 +2,44 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na UniSalesiano, em Araçatuba/SP.
 
-Estou no último semestre da graduação, desenvolvendo um TCC voltado à área jurídica. Venho evoluindo conhecimentos em desenvolvimento web full-stack, bancos de dados, versionamento, APIs e boas práticas de segurança de aplicações.
+Meu foco é desenvolvimento web, integração de APIs e bancos de dados. Atualmente desenvolvo, em dupla, o **LexNexo** como Trabalho de Conclusão de Curso.
 
-### 🔗 Projeto atual
+## Projeto atual
 
-#### LexOffice — ERP para escritórios de advocacia
+### LexNexo — ERP para escritórios de advocacia
 
-No meu Trabalho de Conclusão de Curso, desenvolvo o LexOffice, um sistema de gestão (ERP) multi-tenant voltado a escritórios de advocacia, com cadastro de clientes e processos, agenda de compromissos, upload e controle de documentos, geração de relatórios e envio por e-mail/WhatsApp.
+Sistema de gestão com isolamento dos dados por escritório, desenvolvido com **Python, Django REST Framework, React, Next.js e PostgreSQL**.
 
-Atuo na definição das regras de negócio, no desenvolvimento do backend e frontend, na modelagem do banco de dados, na autenticação multi-tenant e em uma auditoria de segurança completa do projeto (OWASP Top 10, dependências, hardening de configuração) — desenvolvido em parceria com o Claude Code e Codex como copilotos de IA ao longo de todo o processo.
+O projeto reúne cadastro de clientes e processos, agenda com audiências e prazos, documentos, contratos e honorários, tarefas em Kanban, controle de horas e despesas e um assistente com IA.
 
-`Python` `Django` `JavaScript` `Next.js` `PostgreSQL` `Supabase` `Claude Code`
+Participo da definição das regras de negócio, da modelagem do banco de dados, do desenvolvimento do backend e frontend e da revisão de segurança. O trabalho inclui autenticação JWT, permissões por perfil, validação de uploads, testes automatizados e documentação técnica.
 
-### 🛠️ Tecnologias e ferramentas
+- **Aplicação:** [lexnexo.vercel.app](https://lexnexo.vercel.app)
+- **Código:** [TCCrepository](https://github.com/guimunhoz13/TCCrepository)
+- **Publicação:** frontend na Vercel, API no Render e banco PostgreSQL no Supabase.
+- **Testes:** a execução de CI de 28/10/2026 aprovou **843 casos** — 532 Django, 275 Jest e 36 Playwright. [Ver execução](https://github.com/guimunhoz13/TCCrepository/actions/runs/40785092492).
+- **Documentação:** [publicação, verificações e limites do projeto](https://github.com/guimunhoz13/TCCrepository/blob/main/docs/testes/PUBLICACAO-2026-10-28.md).
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-</p>
+Uso Codex e Claude Code como ferramentas de apoio ao desenvolvimento, com revisão do código e validação por testes.
 
-### 📊 GitHub Stats
+## Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/guimunhoz13?style=for-the-badge&logo=github&color=181717&labelColor=000000&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/guimunhoz13/TCCrepository?style=for-the-badge&logo=git&color=F05032&labelColor=000000&logoColor=white" alt="Último commit no TCC" />
-</p>
+| Área | Tecnologias usadas nos projetos |
+|---|---|
+| Backend e APIs | Python, Django, Django REST Framework |
+| Frontend | JavaScript, React, Next.js, HTML e CSS |
+| Bancos de dados | PostgreSQL, Supabase e MySQL |
+| Testes e qualidade | Django Test, Jest, Testing Library e Playwright |
+| Versionamento e entrega | Git, GitHub, GitHub Actions, Docker, Vercel e Render |
 
-### 📌 Repositórios em destaque
+## Outros projetos
 
-- 🔗 [**TCCrepository**](https://github.com/guimunhoz13/TCCrepository) — LexOffice, o ERP jurídico do meu TCC
-- 🔗 [**LandingPageMSLubrificantes**](https://github.com/guimunhoz13/LandingPageMSLubrificantes)
-- 🔗 [**LandingPageAdegaCrystal**](https://github.com/guimunhoz13/LandingPageAdegaCrystal)
+- [**RenovaEstetica**](https://github.com/guimunhoz13/RenovaEstetica) — prévia de uma landing page responsiva para uma clínica de estética.
+- [**MSLubrificantes**](https://github.com/guimunhoz13/MSLubrificantes) — landing page para a MS Lubrificantes.
+- [**AdegaCrystal**](https://github.com/guimunhoz13/AdegaCrystal) — landing page para a Adega Crystal.
 
-### Atualmente
+## Atualmente
 
-- Graduando em Análise e Desenvolvimento de Sistemas na UniSalesiano
-- Desenvolvendo o LexOffice como Trabalho de Conclusão de Curso
+- Desenvolvendo e mantendo o LexNexo como TCC.
+- Aprofundando conhecimentos em APIs REST, permissões de acesso e testes automatizados.
+- Trabalhando com publicação de aplicações e integração contínua.
